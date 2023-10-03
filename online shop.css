@@ -1,0 +1,108 @@
+html{
+background-color:rgb(255, 249, 216);
+}
+ul {
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    list-style: none;
+    position: relative;  
+    margin-top: -60px;
+}
+ul a {
+padding-left: 100px;
+color: black;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+header img{
+    height: 50px;
+    width: 60px;
+    padding-bottom: 25px;
+
+}
+.black img{
+    height: 530px;
+    width: 500px;
+}
+.blue img{
+    width: 147px;
+    height: 160px;
+    padding-right: 25px;
+    margin-top: 35px;
+}
+.total{
+    display: flex;
+    padding-left: 13px;
+    margin-top: 13px;
+}
+.second{
+    margin-left: 20px;
+}
+.second h3{
+    color:rgb(5, 1, 29);
+}
+.second p{
+    color:#030e2e;
+}
+.text h3 s {
+    color: rgb(255 50 50);
+}
+.text h3 b{
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.buy input {
+    height: 50px;
+    width: 200px;
+    margin-top: 20px;
+    background: yellow;
+}
+.item input{
+    height: 31px;
+    width: 35px;
+    margin-bottom: -8px;
+    margin-top: 6px;
+    margin-left: 0px;
+}
+.second table{
+    height: 204px;
+    width: 404px;
+    margin-top: 20px;
+    background-color: #d2d1ff;
+}
+.user{
+    color: #121212;
+    padding-left: 3px;
+    margin-top: 1px;
+}
+.search{
+    color: #050505;
+    margin-left: -22px;
+    margin-top: 3px;
+}
+.cart{
+    padding-left: 43px;
+    margin-top: -34px;
+}
+.bby{
+    padding-left: 260px;
+    margin-top: -18px;
+}
+.clor{
+    padding-left: 50px;
+    letter-spacing: 10px;
+    padding-top: 10px;
+}
+.delivery{
+    margin-top: -177px;
+    margin-left: 69px;
+    font-size: 50px
+}
+.return{
+    color: #292b2e;
+    padding-top: 45px;
+    padding-left: 65px;
+    font-size: 50px;
+}
+
+
